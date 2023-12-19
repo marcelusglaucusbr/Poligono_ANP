@@ -1,5 +1,5 @@
-# Poligono_ANP
-## Criação automatizada de dados geoespaciais conforme rege o Padrão ANP4C, estabelecido pela Resolução ANP N° 70/2014.
+# "Poligono_ANP"
+## Geração automatizada de dados geoespaciais conforme rege o Padrão ANP4C, estabelecido pela Resolução ANP N° 70/2014.
 
 Esta rotina computacional escrita em Python tem por objetivo automatizar o fluxo de criação de polígonos delimitadores para áreas de Avaliação, Desenvolvimento e Produção, bem como extrair e gerar arquivos de dados geoespaciais, conforme as normas vigentes da ANP em 29/11/2023. O script faz uso de diversas bibliotecas, incluindo GeoPandas para manipulação de dados geoespaciais, Matplotlib para visualização estática e Folium para visualização interativa.
 
