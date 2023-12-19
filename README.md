@@ -5,8 +5,8 @@ Esta rotina computacional escrita em Python tem por objetivo automatizar o fluxo
 
 Em síntese, o fluxo de trabalho abrange as seguintes etapas principais:
 
-<p><b>Carregamento de Dados:</b> O script carrega dados geoespaciais em diferenter formatos, como linhas, multilinhas, polígonos ou multipolígonos.
-<b>Pré-processamento:</b> verifica o tipo de dado faz ajustes e realiza operações de simplificação e correção de geometrias para garantir que não haja problemas na execução.
+<p><b>Carregamento de Dados:</b> O script carrega dados geoespaciais em diferenter formatos, como linhas, multilinhas, polígonos ou multipolígonos.</p>
+<p><b>Pré-processamento:</b> verifica o tipo de dado faz ajustes e realiza operações de simplificação e correção de geometrias para garantir que não haja problemas na execução.</p>
 <b>Geração do Buffer:</b> Cria buffers ao redor dos dados já em formato de polígono(s) de referência(s) a partir de uma distância específica (ex: 1000 metros).
 <b>Criação de um Grid:</b> Gera um grid regular de polígonos múltiplo de 9,375 segundos de arco.
 <b>Operações Topológicas:</b> Realiza operações de interseção e dissolução entre o buffer e o grid, criando uma área delimitadora.
