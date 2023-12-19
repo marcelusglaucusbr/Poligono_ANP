@@ -14,5 +14,5 @@ Em síntese, o fluxo de trabalho abrange as seguintes etapas principais:
 <p><b>Projeções e Visualização:</b> Realiza projeções e cria visualizações das etapas de trabalho para verificação do processo.</p>
 <p><b>Exportação de Dados:</b> Exporta os resultados em formatos shapefiles e Excel para remessa a ANP e em formato GeoPackage para uso de todas as informações em outros aplicativos GIS, caso se deseje realizar adequações manuais.</p>
 
-Adicionalmente há uma etapa não automatizada para realização de operação topológica com polígonos pré-existentes.
+<p>Adicionalmente há uma etapa não automatizada para realização de operação topológica com polígonos pré-existentes.</p>
 Por fim, é importante mencionar que o script está organizado em células, permitindo a execução passo a passo para verificação e ajustes conforme necessário.
